@@ -4,5 +4,8 @@ version = 1
 name = "cxx"
 enabled = false
 
+[[analyzers]]
+name = "python"
+
 [[transformers]]
 name = "clang-format"
